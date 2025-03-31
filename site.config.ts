@@ -1,11 +1,11 @@
 export const CONFIG = {
   // site title
-  title: '数字花园🌿',
+  title: "WENXI's LAB",
   // site description
-  description: 'Use heptabase to build your digital garden',
+  description: "同步自己的数字花园",
   // heptabase whiteboard id
   whiteboardId:
-    '641ea3e118cf2f1d33cda32e8580f77efa59094fc805b326c9fc8c6dd16489ee',
+    "07747e445123877811d421a96537e3c0813ab66fc86b830665f62ea4eb51dd9f",
 };
 
 export const SEO = {
